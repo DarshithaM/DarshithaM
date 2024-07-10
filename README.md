@@ -5,7 +5,7 @@
 
 - 📄 Publication at IEE Xplore on title **Alzheimer’s Disease Prediction using Convolutional Neural Network (CNN) with Generative Adversarial Network (GAN)**
 
-- 📫 How to reach me **darshithamurali.1903@gmail.con**
+- 📫 How to reach me **darshithamurali.1903@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
