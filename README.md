@@ -3,9 +3,11 @@
 
 - ✌🏻 Currently interning in Data Science at **Poshmark**
 
+- 📚 Fresher active seeking opportunities in Data Science, Data analytics, Machine Learning and Artificial Initelligence
+
 - 📄 Publication at IEE Xplore on title **Alzheimer’s Disease Prediction using Convolutional Neural Network (CNN) with Generative Adversarial Network (GAN)**
 
-- 📫 How to reach me **darshithamurali.1903@gmail.com**
+- 📫 Reach me at **darshithamurali.1903@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
