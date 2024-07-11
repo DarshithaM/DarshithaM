@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darshitha</h1>
+<h1 align="center">Hello, I'm Darshitha</h1>
 <h5 align="center">An enthusiastic newcomer in the field of Data Science, specializing in AI, Deep Learning and Machine Learning.</h3>
 
 - ✌🏻 Currently interning in Data Science at **Poshmark**
