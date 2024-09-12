@@ -3,7 +3,7 @@
 
 - ✌🏻 Currently interning in Data Science at **Poshmark**
 
-- 📚 Fresher active seeking opportunities in Data Science, Data analytics, Machine Learning and Artificial Initelligence
+- 📚 Fresher actively seeking opportunities in Data Science, Data analytics, Machine Learning and Artificial Initelligence
 
 - 📄 Publication at IEE Xplore on title **Alzheimer’s Disease Prediction using Convolutional Neural Network (CNN) with Generative Adversarial Network (GAN)**
 
